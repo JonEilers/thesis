@@ -1,0 +1,3 @@
+jellyfish count -C -m 32 -s 10G -t 70 *.fq.trimmed -o reads.jf
+
+jellyfish histo -t 70 reads.jf > reads.histo

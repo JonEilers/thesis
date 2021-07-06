@@ -1,0 +1,20 @@
+kat comp -t 70 -n -o P_cali_katcomp ../P_cali_g_1.fq  ../P_cali_g_2.fq
+
+kat plot spectra-mx -i -x 200 -o P_cali_kat_spectra.png P_cali_katcomp-main.mx
+
+kat gcp -t 70 -m 32 ../P_cali_g_1.fq  ../P_cali_g_2.fq
+
+# Sat 12 Dec 2020 08:29:02 PM PST
+
+checking the genome assemblies
+```bash
+for file in *.fa
+do
+	kat comp \
+	-t 70 \
+	-o $file.katcomp '/home/jon/Working_Files/sea_cuke_species_data/pcali_raw_data/pcali_1.trim.fq /home/jon/Working_Files/sea_cuke_species_data/pcali_raw_data/pcali_2.trim.fq' \
+ 	$file
+done
+
+```
+beautiful and neat
