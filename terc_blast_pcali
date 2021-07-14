@@ -1,0 +1,368 @@
+blastn -db pcali  -query terc.fasta -task blastn-short
+BLASTN 2.9.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /home/jon/Working_Files/infernal/platanus-
+allee_illumina_step10.renamed.fa
+           670,543 sequences; 835,887,983 total letters
+
+
+
+Query= JQ684708.1 Strongylocentrotus purpuratus telomerase RNA gene,
+complete sequence
+
+Length=535
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+scaffold64842                                                         38.2       1.4  
+scaffold8116                                                          38.2       1.4  
+scaffold94347                                                         38.2       1.4  
+scaffold38546                                                         38.2       1.4  
+scaffold148884                                                        36.2       5.5  
+scaffold131838                                                        36.2       5.5  
+scaffold58358                                                         36.2       5.5  
+scaffold55882                                                         36.2       5.5  
+scaffold47872                                                         36.2       5.5  
+scaffold37046                                                         36.2       5.5  
+scaffold35789                                                         36.2       5.5  
+scaffold29465                                                         36.2       5.5  
+scaffold28679                                                         36.2       5.5  
+scaffold15924                                                         36.2       5.5  
+scaffold9153                                                          36.2       5.5  
+scaffold1774                                                          36.2       5.5  
+scaffold480460                                                        36.2       5.5  
+scaffold222859                                                        36.2       5.5  
+scaffold138060                                                        36.2       5.5  
+scaffold52091                                                         36.2       5.5  
+scaffold45560                                                         36.2       5.5  
+scaffold44943                                                         36.2       5.5  
+scaffold30069                                                         36.2       5.5  
+scaffold26140                                                         36.2       5.5  
+
+
+>scaffold64842
+Length=16742
+
+ Score = 38.2 bits (19),  Expect = 1.4
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  292   TTCAACATGCAGTTTCTTT  310
+             |||||||||||||||||||
+Sbjct  5607  TTCAACATGCAGTTTCTTT  5589
+
+
+>scaffold8116
+Length=50870
+
+ Score = 38.2 bits (19),  Expect = 1.4
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  92    TGTCTAGCTTTCTGCAAACTACA  114
+             |||||| ||||||||||||||||
+Sbjct  5338  TGTCTAACTTTCTGCAAACTACA  5316
+
+
+>scaffold94347
+Length=2566
+
+ Score = 38.2 bits (19),  Expect = 1.4
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Plus
+
+Query  376  GTCAATGCACATTGGTTAG  394
+            |||||||||||||||||||
+Sbjct  810  GTCAATGCACATTGGTTAG  828
+
+
+>scaffold38546
+Length=14122
+
+ Score = 38.2 bits (19),  Expect = 1.4
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Plus
+
+Query  148   CTGGACTATCCTCTATGGC  166
+             |||||||||||||||||||
+Sbjct  7313  CTGGACTATCCTCTATGGC  7331
+
+
+>scaffold148884
+Length=1319
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Minus
+
+Query  386   ATTGGTTAGGATGTTATT  403
+             ||||||||||||||||||
+Sbjct  1203  ATTGGTTAGGATGTTATT  1186
+
+
+>scaffold131838
+Length=1930
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  273   TTGACCATACTAATTGGATTTC  294
+             |||||| |||||||||||||||
+Sbjct  1228  TTGACCTTACTAATTGGATTTC  1207
+
+
+>scaffold58358
+Length=1869
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  273  TTGACCATACTAATTGGATTTC  294
+            |||||| |||||||||||||||
+Sbjct  530  TTGACCTTACTAATTGGATTTC  509
+
+
+>scaffold55882
+Length=5822
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  273   TTGACCATACTAATTGGATTTC  294
+             |||||| |||||||||||||||
+Sbjct  1913  TTGACCTTACTAATTGGATTTC  1892
+
+
+>scaffold47872
+Length=3759
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  273  TTGACCATACTAATTGGATTTC  294
+            |||||| |||||||||||||||
+Sbjct  184  TTGACCTTACTAATTGGATTTC  163
+
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  273   TTGACCATACTAATTGGATTTC  294
+             |||||| |||||||||||||||
+Sbjct  1999  TTGACCTTACTAATTGGATTTC  1978
+
+
+>scaffold37046
+Length=5840
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Minus
+
+Query  386  ATTGGTTAGGATGTTATT  403
+            ||||||||||||||||||
+Sbjct  821  ATTGGTTAGGATGTTATT  804
+
+
+>scaffold35789
+Length=9662
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  273   TTGACCATACTAATTGGATTTC  294
+             |||||| |||||||||||||||
+Sbjct  8834  TTGACCTTACTAATTGGATTTC  8813
+
+
+>scaffold29465
+Length=7141
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  273   TTGACCATACTAATTGGATTTC  294
+             |||||| |||||||||||||||
+Sbjct  2559  TTGACCTTACTAATTGGATTTC  2538
+
+
+>scaffold28679
+Length=12886
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  435   CTGTTTGTTGGATGAAAAGTAC  456
+             |||||||||| |||||||||||
+Sbjct  4271  CTGTTTGTTGAATGAAAAGTAC  4250
+
+
+>scaffold15924
+Length=9763
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  273   TTGACCATACTAATTGGATTTC  294
+             |||||| |||||||||||||||
+Sbjct  5110  TTGACCTTACTAATTGGATTTC  5089
+
+
+>scaffold9153
+Length=15979
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Minus
+
+Query  452   AGTACAAGATCAACTAGC  469
+             ||||||||||||||||||
+Sbjct  4871  AGTACAAGATCAACTAGC  4854
+
+
+>scaffold1774
+Length=65518
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  210   AAGAAATTGCCATAGCCCTACATGTG  235
+             |||||||| |||||| ||||||||||
+Sbjct  7688  AAGAAATTCCCATAGACCTACATGTG  7663
+
+
+>scaffold480460
+Length=1424
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  268  CAGTTTTGACCATACTAATTGGATTT  293
+            |||| ||||||| |||||||||||||
+Sbjct  222  CAGTATTGACCAAACTAATTGGATTT  247
+
+
+>scaffold222859
+Length=420
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  210  AAGAAATTGCCATAGCCCTACATGTG  235
+            |||||||| |||||| ||||||||||
+Sbjct  63   AAGAAATTCCCATAGACCTACATGTG  88
+
+
+>scaffold138060
+Length=6211
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  386   ATTGGTTAGGATGTTATT  403
+             ||||||||||||||||||
+Sbjct  2616  ATTGGTTAGGATGTTATT  2633
+
+
+>scaffold52091
+Length=1222
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  482  AAAAATCTCATACTGAGA  499
+            ||||||||||||||||||
+Sbjct  463  AAAAATCTCATACTGAGA  480
+
+
+>scaffold45560
+Length=7175
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  386   ATTGGTTAGGATGTTATT  403
+             ||||||||||||||||||
+Sbjct  1739  ATTGGTTAGGATGTTATT  1756
+
+
+>scaffold44943
+Length=6314
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  347   CATCAACTGTTGGTAGAC  364
+             ||||||||||||||||||
+Sbjct  1661  CATCAACTGTTGGTAGAC  1678
+
+
+>scaffold30069
+Length=6184
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  438   TTTGTTGGATGAAAAGTA  455
+             ||||||||||||||||||
+Sbjct  6164  TTTGTTGGATGAAAAGTA  6181
+
+
+>scaffold26140
+Length=3611
+
+ Score = 36.2 bits (18),  Expect = 5.5
+ Identities = 18/18 (100%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  443   TGGATGAAAAGTACAAGA  460
+             ||||||||||||||||||
+Sbjct  2961  TGGATGAAAAGTACAAGA  2978
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 423575718345
+
+
+  Database: /home/jon/Working_Files/infernal/platanus-
+allee_illumina_step10.renamed.fa
+    Posted date:  Jul 14, 2021  9:52 AM
+  Number of letters in database: 835,887,983
+  Number of sequences in database:  670,543
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2
