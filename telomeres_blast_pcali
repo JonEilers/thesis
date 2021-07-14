@@ -1,0 +1,814 @@
+blastn -db pcali  -query telomere.fasta -task blastn-short
+BLASTN 2.9.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /home/jon/Working_Files/infernal/platanus-
+allee_illumina_step10.renamed.fa
+           670,543 sequences; 835,887,983 total letters
+
+
+
+Query= telomere
+
+Length=16
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+scaffold22953                                                         32.2       0.33 
+scaffold261620                                                        30.2       1.3  
+scaffold128726                                                        30.2       1.3  
+scaffold39872                                                         30.2       1.3  
+scaffold11156                                                         30.2       1.3  
+scaffold10422                                                         30.2       1.3  
+scaffold8136                                                          30.2       1.3  
+scaffold3642                                                          30.2       1.3  
+scaffold268                                                           30.2       1.3  
+scaffold552847                                                        28.2       5.2  
+scaffold523189                                                        28.2       5.2  
+scaffold235414                                                        28.2       5.2  
+scaffold233029                                                        28.2       5.2  
+scaffold221640                                                        28.2       5.2  
+scaffold218589                                                        28.2       5.2  
+scaffold217529                                                        28.2       5.2  
+scaffold215177                                                        28.2       5.2  
+scaffold175980                                                        28.2       5.2  
+scaffold152206                                                        28.2       5.2  
+scaffold151671                                                        28.2       5.2  
+scaffold148162                                                        28.2       5.2  
+scaffold139655                                                        28.2       5.2  
+scaffold131250                                                        28.2       5.2  
+scaffold128711                                                        28.2       5.2  
+scaffold119077                                                        28.2       5.2  
+scaffold116950                                                        28.2       5.2  
+scaffold111873                                                        28.2       5.2  
+scaffold110443                                                        28.2       5.2  
+scaffold99406                                                         28.2       5.2  
+scaffold85444                                                         28.2       5.2  
+scaffold54308                                                         28.2       5.2  
+scaffold49861                                                         28.2       5.2  
+scaffold43142                                                         28.2       5.2  
+scaffold38959                                                         28.2       5.2  
+scaffold38273                                                         28.2       5.2  
+scaffold29740                                                         28.2       5.2  
+scaffold27203                                                         28.2       5.2  
+scaffold26414                                                         28.2       5.2  
+scaffold21793                                                         28.2       5.2  
+scaffold21367                                                         28.2       5.2  
+scaffold19663                                                         28.2       5.2  
+scaffold18824                                                         28.2       5.2  
+scaffold17134                                                         28.2       5.2  
+scaffold16405                                                         28.2       5.2  
+scaffold15050                                                         28.2       5.2  
+scaffold12886                                                         28.2       5.2  
+scaffold11644                                                         28.2       5.2  
+scaffold10139                                                         28.2       5.2  
+scaffold8697                                                          28.2       5.2  
+scaffold8063                                                          28.2       5.2  
+scaffold3629                                                          28.2       5.2  
+scaffold2622                                                          28.2       5.2  
+scaffold2255                                                          28.2       5.2  
+scaffold2070                                                          28.2       5.2  
+scaffold831                                                           28.2       5.2  
+scaffold734                                                           28.2       5.2  
+scaffold322                                                           28.2       5.2  
+
+
+>scaffold22953
+Length=7792
+
+ Score = 32.2 bits (16),  Expect = 0.33
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  1     CGGTTTGTTTGGGTTT  16
+             ||||||||||||||||
+Sbjct  4670  CGGTTTGTTTGGGTTT  4655
+
+
+>scaffold261620
+Length=1570
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2    GGTTTGTTTGGGTTT  16
+            |||||||||||||||
+Sbjct  177  GGTTTGTTTGGGTTT  191
+
+
+>scaffold128726
+Length=6661
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1    CGGTTTGTTTGGGTT  15
+            |||||||||||||||
+Sbjct  522  CGGTTTGTTTGGGTT  536
+
+
+>scaffold39872
+Length=8148
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2    GGTTTGTTTGGGTTT  16
+            |||||||||||||||
+Sbjct  293  GGTTTGTTTGGGTTT  279
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  2    GGTTTGTTTGGGTT  15
+            ||||||||||||||
+Sbjct  283  GGTTTGTTTGGGTT  270
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  2    GGTTTGTTTGGGTT  15
+            ||||||||||||||
+Sbjct  309  GGTTTGTTTGGGTT  296
+
+
+>scaffold11156
+Length=24833
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2      GGTTTGTTTGGGTTT  16
+              |||||||||||||||
+Sbjct  10162  GGTTTGTTTGGGTTT  10148
+
+
+>scaffold10422
+Length=28605
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2      GGTTTGTTTGGGTTT  16
+              |||||||||||||||
+Sbjct  22831  GGTTTGTTTGGGTTT  22845
+
+
+>scaffold8136
+Length=14928
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2     GGTTTGTTTGGGTTT  16
+             |||||||||||||||
+Sbjct  5615  GGTTTGTTTGGGTTT  5601
+
+
+>scaffold3642
+Length=11543
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2     GGTTTGTTTGGGTTT  16
+             |||||||||||||||
+Sbjct  1586  GGTTTGTTTGGGTTT  1600
+
+
+>scaffold268
+Length=71782
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1      CGGTTTGTTTGGGTT  15
+              |||||||||||||||
+Sbjct  28071  CGGTTTGTTTGGGTT  28085
+
+
+>scaffold552847
+Length=5807
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  5604  GTTTGTTTGGGTTT  5591
+
+
+>scaffold523189
+Length=11047
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  1155  GTTTGTTTGGGTTT  1142
+
+
+>scaffold235414
+Length=432
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3    GTTTGTTTGGGTTT  16
+            ||||||||||||||
+Sbjct  257  GTTTGTTTGGGTTT  270
+
+
+>scaffold233029
+Length=4909
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  2199  GTTTGTTTGGGTTT  2186
+
+
+>scaffold221640
+Length=14647
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  3649  GTTTGTTTGGGTTT  3636
+
+
+>scaffold218589
+Length=8271
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  1     CGGTTTGTTTGGGT  14
+             ||||||||||||||
+Sbjct  1404  CGGTTTGTTTGGGT  1417
+
+
+>scaffold217529
+Length=409
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3    GTTTGTTTGGGTTT  16
+            ||||||||||||||
+Sbjct  93   GTTTGTTTGGGTTT  106
+
+
+>scaffold215177
+Length=8524
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  7711  GTTTGTTTGGGTTT  7724
+
+
+>scaffold175980
+Length=311
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3   GTTTGTTTGGGTTT  16
+           ||||||||||||||
+Sbjct  40  GTTTGTTTGGGTTT  53
+
+
+>scaffold152206
+Length=10209
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  7940  GTTTGTTTGGGTTT  7953
+
+
+>scaffold151671
+Length=10295
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  2     GGTTTGTTTGGGTT  15
+             ||||||||||||||
+Sbjct  1947  GGTTTGTTTGGGTT  1934
+
+
+>scaffold148162
+Length=4434
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  3966  GTTTGTTTGGGTTT  3979
+
+
+>scaffold139655
+Length=7508
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3    GTTTGTTTGGGTTT  16
+            ||||||||||||||
+Sbjct  637  GTTTGTTTGGGTTT  624
+
+
+>scaffold131250
+Length=7059
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  6672  GTTTGTTTGGGTTT  6659
+
+
+>scaffold128711
+Length=2265
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  1303  GTTTGTTTGGGTTT  1290
+
+
+>scaffold119077
+Length=5784
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3    GTTTGTTTGGGTTT  16
+            ||||||||||||||
+Sbjct  893  GTTTGTTTGGGTTT  880
+
+
+>scaffold116950
+Length=1359
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3    GTTTGTTTGGGTTT  16
+            ||||||||||||||
+Sbjct  607  GTTTGTTTGGGTTT  594
+
+
+>scaffold111873
+Length=773
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3    GTTTGTTTGGGTTT  16
+            ||||||||||||||
+Sbjct  232  GTTTGTTTGGGTTT  245
+
+
+>scaffold110443
+Length=6515
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  3398  GTTTGTTTGGGTTT  3385
+
+
+>scaffold99406
+Length=11068
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  7750  GTTTGTTTGGGTTT  7737
+
+
+>scaffold85444
+Length=21382
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  5874  GTTTGTTTGGGTTT  5887
+
+
+>scaffold54308
+Length=2580
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  2     GGTTTGTTTGGGTT  15
+             ||||||||||||||
+Sbjct  1861  GGTTTGTTTGGGTT  1848
+
+
+>scaffold49861
+Length=2539
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  2364  GTTTGTTTGGGTTT  2377
+
+
+>scaffold43142
+Length=25006
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  19430  GTTTGTTTGGGTTT  19417
+
+
+>scaffold38959
+Length=5832
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  4076  GTTTGTTTGGGTTT  4089
+
+
+>scaffold38273
+Length=10756
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  3301  GTTTGTTTGGGTTT  3288
+
+
+>scaffold29740
+Length=15555
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  14738  GTTTGTTTGGGTTT  14725
+
+
+>scaffold27203
+Length=12019
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  4903  GTTTGTTTGGGTTT  4916
+
+
+>scaffold26414
+Length=17319
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  1208  GTTTGTTTGGGTTT  1195
+
+
+>scaffold21793
+Length=7432
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3    GTTTGTTTGGGTTT  16
+            ||||||||||||||
+Sbjct  402  GTTTGTTTGGGTTT  389
+
+
+>scaffold21367
+Length=11323
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  8697  GTTTGTTTGGGTTT  8710
+
+
+>scaffold19663
+Length=8079
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  6456  GTTTGTTTGGGTTT  6469
+
+
+>scaffold18824
+Length=23779
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  22306  GTTTGTTTGGGTTT  22293
+
+
+>scaffold17134
+Length=3092
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3    GTTTGTTTGGGTTT  16
+            ||||||||||||||
+Sbjct  725  GTTTGTTTGGGTTT  712
+
+
+>scaffold16405
+Length=8094
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  4381  GTTTGTTTGGGTTT  4394
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  4662  GTTTGTTTGGGTTT  4675
+
+
+>scaffold15050
+Length=47548
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  12329  GTTTGTTTGGGTTT  12342
+
+
+>scaffold12886
+Length=9665
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  7467  GTTTGTTTGGGTTT  7480
+
+
+>scaffold11644
+Length=31166
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  29125  GTTTGTTTGGGTTT  29138
+
+
+>scaffold10139
+Length=35815
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  6218  GTTTGTTTGGGTTT  6231
+
+
+>scaffold8697
+Length=20708
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  17200  GTTTGTTTGGGTTT  17187
+
+
+>scaffold8063
+Length=10550
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2     GGTTTGTTTGGGTT  15
+             ||||||||||||||
+Sbjct  1245  GGTTTGTTTGGGTT  1258
+
+
+>scaffold3629
+Length=23442
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  22083  GTTTGTTTGGGTTT  22070
+
+
+>scaffold2622
+Length=34794
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  6315  GTTTGTTTGGGTTT  6302
+
+
+>scaffold2255
+Length=26050
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  15110  GTTTGTTTGGGTTT  15123
+
+
+>scaffold2070
+Length=23773
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  10306  GTTTGTTTGGGTTT  10293
+
+
+>scaffold831
+Length=25658
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  23230  GTTTGTTTGGGTTT  23217
+
+
+>scaffold734
+Length=33209
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3      GTTTGTTTGGGTTT  16
+              ||||||||||||||
+Sbjct  30264  GTTTGTTTGGGTTT  30277
+
+
+>scaffold322
+Length=18904
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3     GTTTGTTTGGGTTT  16
+             ||||||||||||||
+Sbjct  5906  GTTTGTTTGGGTTT  5893
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 1653000762
+
+
+  Database: /home/jon/Working_Files/infernal/platanus-
+allee_illumina_step10.renamed.fa
+    Posted date:  Jul 14, 2021  9:52 AM
+  Number of letters in database: 835,887,983
+  Number of sequences in database:  670,543
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2
