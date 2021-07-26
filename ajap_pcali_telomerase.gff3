@@ -116,3 +116,66 @@ MRZV01000051.1	.	insertion_artifact	567524	567524	.	+	.	owner=jon;residues=A;ID=
 ###
 MRZV01000051.1	.	deletion_artifact	561852	561852	.	+	.	owner=jon;ID=f31ecad0-1adf-4b7b-a6d6-858415a16602;date_last_modified=2021-07-23;Name=f31ecad0-1adf-4b7b-a6d6-858415a16602;date_creation=2021-07-23
 ###
+
+
+##gff-version 3
+##sequence-region scaffold00073 1 1004649
+scaffold00073	.	gene	549134	576092	.	+	.	owner=jon;ID=934d6d45-cca9-406d-90f3-36e4d69e99db;date_last_modified=2021-07-22;Name=mRNA3896;date_creation=2021-07-22
+scaffold00073	.	mRNA	549134	576092	.	+	.	owner=jon;Parent=934d6d45-cca9-406d-90f3-36e4d69e99db;ID=9ec13302-1a3c-4a76-bc9f-625968f0cd22;orig_id=mRNA3896;date_last_modified=2021-07-22;Name=mRNA3896-00001;date_creation=2021-07-22
+scaffold00073	.	exon	558823	558893	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=d7a855f2-ba13-46df-b794-ea7078f3c030;Name=d7a855f2-ba13-46df-b794-ea7078f3c030
+scaffold00073	.	exon	564821	565012	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=eb9fb73f-1725-4997-ba3f-0735132e02a8;Name=eb9fb73f-1725-4997-ba3f-0735132e02a8
+scaffold00073	.	exon	563707	563803	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=417be85f-1ed2-443c-b4aa-f4bd4d541b36;Name=417be85f-1ed2-443c-b4aa-f4bd4d541b36
+scaffold00073	.	exon	567897	567977	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=f287ad90-7af5-4bb3-9e76-38a119c452c2;Name=f287ad90-7af5-4bb3-9e76-38a119c452c2
+scaffold00073	.	exon	554875	554942	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=b79e1054-b9dd-4d46-b9ca-cc46d5fbeb57;Name=b79e1054-b9dd-4d46-b9ca-cc46d5fbeb57
+scaffold00073	.	exon	567284	567385	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=36e5c850-51ab-4971-b569-feb534502b49;Name=36e5c850-51ab-4971-b569-feb534502b49
+scaffold00073	.	exon	550161	550287	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=852c5c2f-454b-49c9-94b1-255ab50af373;Name=852c5c2f-454b-49c9-94b1-255ab50af373
+scaffold00073	.	exon	552747	552832	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=de9f449c-8593-419c-9da7-f4ac2244ea26;Name=de9f449c-8593-419c-9da7-f4ac2244ea26
+scaffold00073	.	exon	571552	571597	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=3a2871ea-e5b1-4aa6-9471-4974a840f6c0;Name=3a2871ea-e5b1-4aa6-9471-4974a840f6c0
+scaffold00073	.	CDS	549134	549243	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	550161	550287	.	+	1	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	551415	551557	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	552747	552832	.	+	1	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	553566	553823	.	+	2	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	554582	554679	.	+	2	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	554875	554942	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	556206	558421	.	+	1	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	558823	558893	.	+	2	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	559581	559718	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	560086	560182	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	560980	561017	.	+	2	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	561529	561654	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	562253	562309	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	562750	562853	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	563707	563803	.	+	1	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	564821	565012	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	565716	565790	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	566255	566380	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	566645	566729	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	567284	567385	.	+	2	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	567897	567977	.	+	2	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	569161	569233	.	+	2	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	571552	571597	.	+	1	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	572642	572768	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	574369	574474	.	+	2	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	575372	575477	.	+	1	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	CDS	576015	576092	.	+	0	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7dcddada-4470-472a-ab4f-800e8a72f759;Name=7dcddada-4470-472a-ab4f-800e8a72f759
+scaffold00073	.	exon	561529	561654	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=da17df1c-aaf0-431e-9b35-5b6d7f391725;Name=da17df1c-aaf0-431e-9b35-5b6d7f391725
+scaffold00073	.	exon	574369	574474	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=6112acae-7768-49e5-bdad-af9028424cd9;Name=6112acae-7768-49e5-bdad-af9028424cd9
+scaffold00073	.	exon	549134	549243	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=53accf0d-182b-4d5b-b6f2-0cd0c70a2217;Name=53accf0d-182b-4d5b-b6f2-0cd0c70a2217
+scaffold00073	.	exon	560086	560182	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=f8f978e6-6222-4705-b7cf-d6c3b691444c;Name=f8f978e6-6222-4705-b7cf-d6c3b691444c
+scaffold00073	.	exon	572642	572768	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=9daad872-2aa0-4c19-b2ab-4dff4431db7d;Name=9daad872-2aa0-4c19-b2ab-4dff4431db7d
+scaffold00073	.	exon	556206	558421	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=97f680bf-f0f1-4d02-9093-2ff77c06da37;Name=97f680bf-f0f1-4d02-9093-2ff77c06da37
+scaffold00073	.	exon	566645	566729	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=7c213353-5c0c-44cb-b4e5-5ae2ebf3603b;Name=7c213353-5c0c-44cb-b4e5-5ae2ebf3603b
+scaffold00073	.	exon	553566	553823	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=c1a1ce32-81e2-4dcf-826a-e58891c7ea38;Name=c1a1ce32-81e2-4dcf-826a-e58891c7ea38
+scaffold00073	.	exon	554582	554679	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=22d338d2-a380-4ed0-b3d4-f14e6aee9ba7;Name=22d338d2-a380-4ed0-b3d4-f14e6aee9ba7
+scaffold00073	.	exon	569161	569233	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=33b89114-9970-46b3-9eb8-8b7329f56497;Name=33b89114-9970-46b3-9eb8-8b7329f56497
+scaffold00073	.	exon	551415	551557	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=b0f544df-153f-4f7c-a838-4d110983537f;Name=b0f544df-153f-4f7c-a838-4d110983537f
+scaffold00073	.	exon	565716	565790	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=071ab5f9-6554-4ed9-8c65-1fd6a906f163;Name=071ab5f9-6554-4ed9-8c65-1fd6a906f163
+scaffold00073	.	exon	576015	576092	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=0000335d-7b22-4475-921e-4abe5fcee52d;Name=0000335d-7b22-4475-921e-4abe5fcee52d
+scaffold00073	.	exon	562253	562309	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=092fac4f-cc3f-4799-8505-7f03b08e0317;Name=092fac4f-cc3f-4799-8505-7f03b08e0317
+scaffold00073	.	exon	562750	562853	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=c810d28d-a43d-42b6-9d70-d99f81a2cb33;Name=c810d28d-a43d-42b6-9d70-d99f81a2cb33
+scaffold00073	.	exon	559581	559718	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=892c0600-aee2-4c0a-9301-d426299accae;Name=892c0600-aee2-4c0a-9301-d426299accae
+scaffold00073	.	exon	575372	575477	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=ae259bd2-fcc2-4fbb-958d-317613096c19;Name=ae259bd2-fcc2-4fbb-958d-317613096c19
+scaffold00073	.	exon	566255	566380	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=b05dd2c1-bbd6-4fcb-bf38-dcbda11ac838;Name=b05dd2c1-bbd6-4fcb-bf38-dcbda11ac838
+scaffold00073	.	exon	560980	561017	.	+	.	Parent=9ec13302-1a3c-4a76-bc9f-625968f0cd22;ID=ea7c331c-974c-4d37-b574-ad2a5125378f;Name=ea7c331c-974c-4d37-b574-ad2a5125378f
+###
