@@ -1,0 +1,118 @@
+##gff-version 3
+##sequence-region MRZV01000051.1 1 1065482
+MRZV01000051.1	.	gene	559649	584702	.	+	.	owner=jon;ID=0aea4f11-4207-4024-8873-4e11845fc2ab;date_last_modified=2021-07-23;Name=rna-gnl|WGS:MRZV|mrna.BSL78_02424;date_creation=2021-07-23
+MRZV01000051.1	.	mRNA	559649	584702	.	+	.	owner=jon;Parent=0aea4f11-4207-4024-8873-4e11845fc2ab;ID=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;orig_id=rna-gnl|WGS:MRZV|mrna.BSL78_02424;date_last_modified=2021-07-26;Name=rna-gnl|WGS:MRZV|mrna.BSL78_02424-00001;date_creation=2021-07-23
+MRZV01000051.1	.	non_canonical_five_prime_splice_site	574592	574592	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e-non_canonical_five_prime_splice_site-574591;Name=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e-non_canonical_five_prime_splice_site-574591
+MRZV01000051.1	.	exon	562794	562879	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=385e6e13-55cf-4ffc-b7b0-af76bb3d81e8;Name=385e6e13-55cf-4ffc-b7b0-af76bb3d81e8
+MRZV01000051.1	.	exon	564795	564862	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=13420b0f-aeba-47ea-bb80-d555b752a6a5;Name=13420b0f-aeba-47ea-bb80-d555b752a6a5
+MRZV01000051.1	.	exon	572026	572139	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=5b26dfc7-06d4-4dde-8f9f-cc767b590241;Name=5b26dfc7-06d4-4dde-8f9f-cc767b590241
+MRZV01000051.1	.	exon	574470	574566	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=a14a1722-951a-4527-bdda-86959b5109d8;Name=a14a1722-951a-4527-bdda-86959b5109d8
+MRZV01000051.1	.	exon	561792	561935	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=d32a8ad0-dad8-4d21-8dcc-922e65e1a93f;Name=d32a8ad0-dad8-4d21-8dcc-922e65e1a93f
+MRZV01000051.1	.	exon	565563	566959	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=fb2f6603-28a7-458c-82db-8640a27b0825;Name=fb2f6603-28a7-458c-82db-8640a27b0825
+MRZV01000051.1	.	exon	573279	573382	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=60419888-56d4-4039-a2c6-dfd1003fe273;Name=60419888-56d4-4039-a2c6-dfd1003fe273
+MRZV01000051.1	.	exon	572768	572824	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=5579e3c0-7e4e-4e0e-bdf8-7fb7dcd76100;Name=5579e3c0-7e4e-4e0e-bdf8-7fb7dcd76100
+MRZV01000051.1	.	CDS	559649	559758	.	+	0	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	560721	560847	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	561792	561935	.	+	0	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	562794	562879	.	+	0	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	563539	563742	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	564486	564583	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	564795	564862	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	565563	566959	.	+	0	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	567028	567921	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	568297	568367	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	569427	569563	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	569930	570024	.	+	0	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	571465	571502	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	572026	572139	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	572768	572824	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	573279	573382	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	574470	574566	.	+	0	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	575393	575584	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	576221	576295	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	576781	576906	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	577174	577258	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	577549	577650	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	578208	578288	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	579456	579528	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	581057	581102	.	+	0	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	581848	581974	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	582982	583087	.	+	1	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	583989	584094	.	+	0	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	CDS	584625	584702	.	+	2	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d;Name=1e7c37b1-1f57-4d8b-88d3-2a2ed94ba66d
+MRZV01000051.1	.	exon	581057	581102	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=98e5e73f-1506-419e-90df-86d942dcab73;Name=98e5e73f-1506-419e-90df-86d942dcab73
+MRZV01000051.1	.	exon	578208	578288	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=66e25148-2667-4b85-8557-93274292b6a6;Name=66e25148-2667-4b85-8557-93274292b6a6
+MRZV01000051.1	.	exon	577549	577650	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=2791e7be-cd39-479b-8aaa-dcad5e09bdbc;Name=2791e7be-cd39-479b-8aaa-dcad5e09bdbc
+MRZV01000051.1	.	exon	581848	581974	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=0c6e9df8-eea9-41b7-a783-a1486c134262;Name=0c6e9df8-eea9-41b7-a783-a1486c134262
+MRZV01000051.1	.	exon	582982	583087	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=50bde26a-0fce-42cd-a85d-15887334c7f7;Name=50bde26a-0fce-42cd-a85d-15887334c7f7
+MRZV01000051.1	.	exon	579456	579528	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=076d7cae-7ac0-44ea-aa60-323ef54d4f6c;Name=076d7cae-7ac0-44ea-aa60-323ef54d4f6c
+MRZV01000051.1	.	exon	559649	559758	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=0ebc594b-c4a9-4358-bc59-4468b20c8dbd;Name=0ebc594b-c4a9-4358-bc59-4468b20c8dbd
+MRZV01000051.1	.	exon	560721	560847	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=9a71e983-c40b-4439-ac26-197f52fcfdba;Name=9a71e983-c40b-4439-ac26-197f52fcfdba
+MRZV01000051.1	.	exon	569930	570024	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=424d8010-8b46-46c4-9802-05557ef4ae0c;Name=424d8010-8b46-46c4-9802-05557ef4ae0c
+MRZV01000051.1	.	exon	571465	571502	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=53bc44a7-4593-4db9-83c0-af0c1e292bab;Name=53bc44a7-4593-4db9-83c0-af0c1e292bab
+MRZV01000051.1	.	exon	564486	564583	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=c435aa5c-4417-4813-be4b-c1489cbf2d58;Name=c435aa5c-4417-4813-be4b-c1489cbf2d58
+MRZV01000051.1	.	non_canonical_three_prime_splice_site	567037	567037	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e-non_canonical_three_prime_splice_site-567036;Name=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e-non_canonical_three_prime_splice_site-567036
+MRZV01000051.1	.	exon	583989	584094	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=39e6ce35-867b-4dc7-ab92-a104b4c0a2ef;Name=39e6ce35-867b-4dc7-ab92-a104b4c0a2ef
+MRZV01000051.1	.	exon	576221	576295	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=10676274-0636-4d45-a41a-1cbcbf656410;Name=10676274-0636-4d45-a41a-1cbcbf656410
+MRZV01000051.1	.	exon	577174	577258	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=e7fee10c-f171-4f3a-9f9e-28f9709e3060;Name=e7fee10c-f171-4f3a-9f9e-28f9709e3060
+MRZV01000051.1	.	exon	575393	575584	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=37b43ef3-5cb6-4ad9-a76d-a01d33f54e8a;Name=37b43ef3-5cb6-4ad9-a76d-a01d33f54e8a
+MRZV01000051.1	.	exon	569427	569563	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=53c791b1-26c4-4608-9ca0-5f3867592f7d;Name=53c791b1-26c4-4608-9ca0-5f3867592f7d
+MRZV01000051.1	.	exon	567028	567921	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=c4aee240-dcba-47d1-9810-1069fb6afad7;Name=c4aee240-dcba-47d1-9810-1069fb6afad7
+MRZV01000051.1	.	exon	584625	584702	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=bafc8c49-2ef2-4344-b08b-3ed9563eff21;Name=bafc8c49-2ef2-4344-b08b-3ed9563eff21
+MRZV01000051.1	.	exon	568297	568367	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=89735283-16a5-451a-85da-53275ca055df;Name=89735283-16a5-451a-85da-53275ca055df
+MRZV01000051.1	.	non_canonical_five_prime_splice_site	566971	566971	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e-non_canonical_five_prime_splice_site-566970;Name=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e-non_canonical_five_prime_splice_site-566970
+MRZV01000051.1	.	exon	563539	563742	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=479abb05-a3d3-49a6-ba78-aa379c6c7f85;Name=479abb05-a3d3-49a6-ba78-aa379c6c7f85
+MRZV01000051.1	.	exon	576781	576906	.	+	.	Parent=5ffd9fc1-bdcc-455e-b3bb-bf3034a55a0e;ID=ae8228c7-7491-41fd-9b26-49d2c5a5e95c;Name=ae8228c7-7491-41fd-9b26-49d2c5a5e95c
+###
+MRZV01000051.1	.	insertion_artifact	566860	566860	.	+	.	owner=jon;residues=A;ID=8b29006f-fee6-4ea6-b9fc-a99b0552e3b7;date_last_modified=2021-07-26;Name=8b29006f-fee6-4ea6-b9fc-a99b0552e3b7;date_creation=2021-07-26
+###
+MRZV01000051.1	.	insertion_artifact	567582	567582	.	+	.	owner=jon;residues=A;ID=01a6f867-c7c2-4b71-8574-c895775e2e93;date_last_modified=2021-07-23;Name=01a6f867-c7c2-4b71-8574-c895775e2e93;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	567150	567150	.	+	.	owner=jon;residues=A;ID=ed8e7a73-f96c-4617-ba4b-9be9c6841805;date_last_modified=2021-07-23;Name=ed8e7a73-f96c-4617-ba4b-9be9c6841805;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	566273	566273	.	+	.	owner=jon;residues=G;ID=b0da99b9-6788-4674-980d-c024851dd940;date_last_modified=2021-07-23;Name=b0da99b9-6788-4674-980d-c024851dd940;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	567445	567445	.	+	.	owner=jon;residues=A;ID=d48b8074-fa93-443f-a817-e4c8dc4fa03c;date_last_modified=2021-07-23;Name=d48b8074-fa93-443f-a817-e4c8dc4fa03c;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	566714	566714	.	+	.	owner=jon;residues=A;ID=e7e3bc4c-b907-4071-b9ef-dd1958f14fb4;date_last_modified=2021-07-26;Name=e7e3bc4c-b907-4071-b9ef-dd1958f14fb4;date_creation=2021-07-26
+###
+MRZV01000051.1	.	insertion_artifact	566596	566596	.	+	.	owner=jon;residues=G;ID=ff52dfae-e449-4fbd-8e58-343367d0edbc;date_last_modified=2021-07-26;Name=ff52dfae-e449-4fbd-8e58-343367d0edbc;date_creation=2021-07-26
+###
+MRZV01000051.1	.	insertion_artifact	567355	567355	.	+	.	owner=jon;residues=A;ID=291db4fd-e985-4cc4-bca8-8ba8bcb97fe8;date_last_modified=2021-07-23;Name=291db4fd-e985-4cc4-bca8-8ba8bcb97fe8;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	567356	567356	.	+	.	owner=jon;residues=A;ID=0ce9586c-419f-429b-94ad-cebd199bf7fa;date_last_modified=2021-07-23;Name=0ce9586c-419f-429b-94ad-cebd199bf7fa;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	566789	566789	.	+	.	owner=jon;residues=T;ID=d9535fe0-f9b5-4980-99fb-65a94cdd1073;date_last_modified=2021-07-26;Name=d9535fe0-f9b5-4980-99fb-65a94cdd1073;date_creation=2021-07-26
+###
+MRZV01000051.1	.	substitution_artifact	567819	567819	.	+	.	owner=jon;residues=C;ID=0d057b4b-86e0-4876-a2fa-53bdf063a816;date_last_modified=2021-07-23;Name=0d057b4b-86e0-4876-a2fa-53bdf063a816;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	566811	566811	.	+	.	owner=jon;residues=G;ID=cb39838d-f24b-4486-9841-40e7c6e3b02f;date_last_modified=2021-07-26;Name=cb39838d-f24b-4486-9841-40e7c6e3b02f;date_creation=2021-07-26
+###
+MRZV01000051.1	.	insertion_artifact	567214	567214	.	+	.	owner=jon;residues=A;ID=6b105c25-149c-4eeb-bd4e-cb6b6fe5f831;date_last_modified=2021-07-23;Name=6b105c25-149c-4eeb-bd4e-cb6b6fe5f831;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	566942	566942	.	+	.	owner=jon;residues=A;ID=5b892234-6905-432e-8009-dea103e6822b;date_last_modified=2021-07-26;Name=5b892234-6905-432e-8009-dea103e6822b;date_creation=2021-07-26
+###
+MRZV01000051.1	.	insertion_artifact	566558	566558	.	+	.	owner=jon;residues=G;ID=4f21a09d-4a3b-4273-8e1a-e06092c8c89a;date_last_modified=2021-07-23;Name=4f21a09d-4a3b-4273-8e1a-e06092c8c89a;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	569980	569980	.	+	.	owner=jon;residues=C;ID=965114b6-cc13-4b62-93ad-f2be52be26da;date_last_modified=2021-07-23;Name=965114b6-cc13-4b62-93ad-f2be52be26da;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	567171	567171	.	+	.	owner=jon;residues=A;ID=acdda228-f358-4b3c-b643-781299aa96bd;date_last_modified=2021-07-23;Name=acdda228-f358-4b3c-b643-781299aa96bd;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	566599	566599	.	+	.	owner=jon;residues=A;ID=81ec90db-bd26-4201-96d0-4e6b27f577c4;date_last_modified=2021-07-23;Name=81ec90db-bd26-4201-96d0-4e6b27f577c4;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	566886	566886	.	+	.	owner=jon;residues=A;ID=277c1bb4-892a-4a10-a6d2-4c94a9da5e5b;date_last_modified=2021-07-26;Name=277c1bb4-892a-4a10-a6d2-4c94a9da5e5b;date_creation=2021-07-26
+###
+MRZV01000051.1	.	insertion_artifact	571486	571486	.	+	.	owner=jon;residues=A;ID=00286c26-70da-4486-bb5f-5b5fd0f73320;date_last_modified=2021-07-23;Name=00286c26-70da-4486-bb5f-5b5fd0f73320;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	567448	567448	.	+	.	owner=jon;residues=A;ID=d5abba89-0d30-4efb-90ec-2a6c79d33acb;date_last_modified=2021-07-23;Name=d5abba89-0d30-4efb-90ec-2a6c79d33acb;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	567663	567663	.	+	.	owner=jon;residues=A;ID=c195cd07-f5c0-4101-9f92-236044d4532a;date_last_modified=2021-07-23;Name=c195cd07-f5c0-4101-9f92-236044d4532a;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	567447	567447	.	+	.	owner=jon;residues=A;ID=5eb56388-4750-4a18-9af6-eff0e4cdf43b;date_last_modified=2021-07-23;Name=5eb56388-4750-4a18-9af6-eff0e4cdf43b;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	569488	569488	.	+	.	owner=jon;residues=G;ID=a87c421a-de1f-40f4-920a-a6636fb920bd;date_last_modified=2021-07-23;Name=a87c421a-de1f-40f4-920a-a6636fb920bd;date_creation=2021-07-23
+###
+MRZV01000051.1	.	insertion_artifact	567524	567524	.	+	.	owner=jon;residues=A;ID=69c2be80-65e6-4840-bc6c-d419af3615b9;date_last_modified=2021-07-23;Name=69c2be80-65e6-4840-bc6c-d419af3615b9;date_creation=2021-07-23
+###
+MRZV01000051.1	.	deletion_artifact	561852	561852	.	+	.	owner=jon;ID=f31ecad0-1adf-4b7b-a6d6-858415a16602;date_last_modified=2021-07-23;Name=f31ecad0-1adf-4b7b-a6d6-858415a16602;date_creation=2021-07-23
+###
