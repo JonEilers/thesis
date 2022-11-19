@@ -8,4 +8,4 @@ QC -> Assembly -> Assembly QC -> Gene prediction -> Annotation
 
 This is not a comprehesive collection of everything used and is more of a bioinformatics "lab notebook". 
 
-If you are an invididual looking for insight into genome assembly and annotation I recommend visiting my website: [www.eilersgenomics.com]([www.eilersgenomics.com/bioinformatics](https://www.eilersgenomics.com/bioinformatics/)) for more indepth information regarding this
+If you are an invididual looking for insight into genome assembly and annotation I recommend visiting my website: [www.eilersgenomics.com](https://www.eilersgenomics.com/bioinformatics/) for more indepth information regarding this
